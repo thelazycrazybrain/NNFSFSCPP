@@ -1,3 +1,6 @@
+# License
+# Original source by Sentdex (MIT License, Copyright (c) 2020 Sentdex, Kinsley Enterprises Inc., https://nnfs.io)
+# Modified by TheLazyCrazyBrain (MIT License, Copyright (c) 2022 Jodie Watson)
 import numpy as np
 
 
